@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Redaksi_svg-inline--fa fa-bars fa-1x</name>
+   <tag></tag>
+   <elementGuidId>976ccb68-bf75-442f-a399-48aa5455a39e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaksi'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>dad04985-e5c0-4e6e-9f3b-b95c1d80da1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5fa0482a-e6c6-4e47-9f22-85303fe07d6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e63c6be1-6e4e-4794-98e6-75a592a3c213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>40c0e3d7-00da-4e28-b388-f7bb13dcaee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>bars</value>
+      <webElementGuid>dd8b09ad-eaff-4b24-98ac-6d2d284afadb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-bars fa-1x </value>
+      <webElementGuid>fa8c4f72-fb97-449a-bc8c-e1f02eebf659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5f2a9825-3a64-4368-b6a3-f174e42fefd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>ff0aaf0d-8bd7-4563-ba37-ca305febe980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 448 512</value>
+      <webElementGuid>f9e5320d-574c-4448-b501-34b15f2aff2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;header__Container-sc-14n1q57-0 fJWfAy&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;topbar__Container-sc-11aj7yt-0 GnmNv&quot;]/nav[1]/div[@class=&quot;topbar&quot;]/div[@class=&quot;header-logo false&quot;]/div[@class=&quot;before deduktif&quot;]/svg[@class=&quot;svg-inline--fa fa-bars fa-1x&quot;]</value>
+      <webElementGuid>39108057-997e-4424-ac29-0d7f98646830</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaksi'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>d5fccc83-f025-434c-93f8-a7d0e26806e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>c1e6a08d-4713-4ea9-b75c-484f4f7ade45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEDUKTIF'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>2ede8cec-80f2-4173-b9f7-faabdbfa54ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

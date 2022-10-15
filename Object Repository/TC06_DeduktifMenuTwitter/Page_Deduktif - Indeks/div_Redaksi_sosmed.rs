@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Redaksi_sosmed</name>
+   <tag></tag>
+   <elementGuidId>c17ee334-c240-4ec8-acaf-b592fd1060f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/nav/section/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sosmed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b26074cc-cc1d-45e4-981c-660436392a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sosmed</value>
+      <webElementGuid>75fe594b-20af-4266-a73c-fdb80e47345d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;header__Container-sc-14n1q57-0 fJWfAy&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;sidebar__Container-sc-q6qem6-0 dFvpTH&quot;]/nav[1]/section[1]/div[@class=&quot;menu menuindeks menufront&quot;]/div[@class=&quot;sosmed&quot;]</value>
+      <webElementGuid>6eff31c7-6e62-4447-87cd-c3fa6f130db3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/nav/section/div[2]/div</value>
+      <webElementGuid>fc15d3b9-a54c-4dfc-9a41-66504153d871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaksi'])[1]/following::div[1]</value>
+      <webElementGuid>54533ae3-5040-4f1f-a473-8d54b610c2e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::div[1]</value>
+      <webElementGuid>2aaa7ed9-f36f-486c-b1d6-4f7c88fafb76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEDUKTIF'])[1]/preceding::div[7]</value>
+      <webElementGuid>efb8e368-a7dc-4936-89df-3ed28125b2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div</value>
+      <webElementGuid>c080ba25-89fa-463e-88d6-c4d02ec2c80f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

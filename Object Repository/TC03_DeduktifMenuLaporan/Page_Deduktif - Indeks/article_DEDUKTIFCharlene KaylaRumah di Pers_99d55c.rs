@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>article_DEDUKTIFCharlene KaylaRumah di Pers_99d55c</name>
+   <tag></tag>
+   <elementGuidId>eae1795d-ceed-4157-8d49-f0587db035a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/article</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>article</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>article</value>
+      <webElementGuid>7dc46ad7-b794-42c4-82bc-edaf743df6f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DEDUKTIFCharlene KaylaRumah di Persimpangan JalanFajar NugrahaMartin Aleida dan Riwayat Harian RakjatFajar NugrahaHidup di Antara PertaruhanFajar NugrahaMenambang Cuan dari Judi OnlineAhsan RidhoiNeraka di Kapal Hampir Karam Bernama Jawa Pos KoranAhsan RidhoiBalkanisasi Grup Jawa PosAhsan RidhoiBerebut Kuasa di Jawa PosAhsan RidhoiSuul Khatimah di Jawa PosAnn PutriJawa Pos Bukan Lagi Dahlan IskanFajar NugrahaKalkulator Paylater12</value>
+      <webElementGuid>bc1b9b09-648b-4fbd-9cff-2d167f418176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;listdata__Container-sc-i584bf-0 eepZwG deduktif&quot;]/article[1]</value>
+      <webElementGuid>6258fed0-3226-4562-b784-26bb58fa5ef1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/article</value>
+      <webElementGuid>42cc9a3b-e759-4496-ae46-c824824342e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaksi'])[1]/following::article[1]</value>
+      <webElementGuid>aa037962-33b6-46c7-a643-4f9802926c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::article[1]</value>
+      <webElementGuid>6deb75d5-8d89-4d6e-b567-f33f915fd534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article</value>
+      <webElementGuid>d0e1ffee-32e4-4896-a15a-643128043e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//article[(text() = 'DEDUKTIFCharlene KaylaRumah di Persimpangan JalanFajar NugrahaMartin Aleida dan Riwayat Harian RakjatFajar NugrahaHidup di Antara PertaruhanFajar NugrahaMenambang Cuan dari Judi OnlineAhsan RidhoiNeraka di Kapal Hampir Karam Bernama Jawa Pos KoranAhsan RidhoiBalkanisasi Grup Jawa PosAhsan RidhoiBerebut Kuasa di Jawa PosAhsan RidhoiSuul Khatimah di Jawa PosAnn PutriJawa Pos Bukan Lagi Dahlan IskanFajar NugrahaKalkulator Paylater12' or . = 'DEDUKTIFCharlene KaylaRumah di Persimpangan JalanFajar NugrahaMartin Aleida dan Riwayat Harian RakjatFajar NugrahaHidup di Antara PertaruhanFajar NugrahaMenambang Cuan dari Judi OnlineAhsan RidhoiNeraka di Kapal Hampir Karam Bernama Jawa Pos KoranAhsan RidhoiBalkanisasi Grup Jawa PosAhsan RidhoiBerebut Kuasa di Jawa PosAhsan RidhoiSuul Khatimah di Jawa PosAnn PutriJawa Pos Bukan Lagi Dahlan IskanFajar NugrahaKalkulator Paylater12')]</value>
+      <webElementGuid>1559fa69-a7cd-45ef-b44b-b46979531aa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>6b9fa0fe-8ecb-4e1d-a2db-4d7e76cdee62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>47cefc47-b0e9-4069-92a5-0bba2ea71259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>1cd27336-6411-43d3-8450-d5d3d54e27e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M192 448c-8.188 0-16.38-3.125-22.62-9.375l-160-160c-12.5-12.5-12.5-32.75 0-45.25l160-160c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25L77.25 256l137.4 137.4c12.5 12.5 12.5 32.75 0 45.25C208.4 444.9 200.2 448 192 448z</value>
+      <webElementGuid>7e9139d9-a74d-4156-be5e-4f614ebb2023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;header__Container-sc-14n1q57-0 fJWfAy&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;sidebar__Container-sc-q6qem6-0 dFvpTH&quot;]/nav[1]/section[1]/div[@class=&quot;close&quot;]/svg[@class=&quot;svg-inline--fa fa-angle-left&quot;]/path[1]</value>
+      <webElementGuid>6ac51268-30e9-486c-8509-3235bb8fd3de</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

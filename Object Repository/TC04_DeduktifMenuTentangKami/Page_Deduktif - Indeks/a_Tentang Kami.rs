@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tentang Kami</name>
+   <tag></tag>
+   <elementGuidId>dbc03c0f-c7ca-49bb-a4d7-46a29dd582f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/nav/section/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d6570872-f46b-4624-9f75-3f868d011276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>a6a83181-a4ee-4241-8ea2-60d876d28aa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Tentang Kami - Deduktif.id</value>
+      <webElementGuid>fcb473cc-e491-4a78-b425-43086278a317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/about</value>
+      <webElementGuid>e9c50b01-840f-4e6d-96a9-ab3485d0c11b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tentang Kami</value>
+      <webElementGuid>8099b5e9-59b8-470b-8c4a-a50a5b78e122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;header__Container-sc-14n1q57-0 fJWfAy&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;sidebar__Container-sc-q6qem6-0 dFvpTH&quot;]/nav[1]/section[1]/div[@class=&quot;menu menuindeks menufront&quot;]/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>46743bfe-52c8-443e-bf84-2e6471487328</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/nav/section/div[2]/a[2]</value>
+      <webElementGuid>5e187fcb-c2bd-4b64-8d6c-342cd062d4e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tentang Kami')]</value>
+      <webElementGuid>239bb973-2273-444d-a9ba-e3ceaef7432d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan'])[1]/following::a[1]</value>
+      <webElementGuid>afc254bd-479d-44c3-990d-7b2dce3717c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaksi'])[1]/preceding::a[1]</value>
+      <webElementGuid>62331b69-83ac-4ee2-b081-d74af2ff277f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEDUKTIF'])[1]/preceding::a[4]</value>
+      <webElementGuid>985cbe32-57e1-4fe7-9927-59fe596d09b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tentang Kami']/parent::*</value>
+      <webElementGuid>acf598e7-15a2-4cb3-9104-b0aebdd6f206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/about')]</value>
+      <webElementGuid>8f5b2997-d5b0-42e9-9efe-2bb91ce93e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>0aa71861-7876-4878-87dd-eced3e44825a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/about' and (text() = 'Tentang Kami' or . = 'Tentang Kami')]</value>
+      <webElementGuid>82dff75e-009c-410c-8f01-7ce8fd49d24a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

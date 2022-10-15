@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Redaksi_svg-inline--fa fa-twitter</name>
+   <tag></tag>
+   <elementGuidId>6e0f6dc7-3690-4f80-b6d4-d8ad5fea78bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaksi'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>1df5256d-dde7-4c33-b007-570b89099ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>defff00f-bd1b-43c9-a579-8f8dec5ac36c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e7200640-5d35-403e-879a-1cb4702bd0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fab</value>
+      <webElementGuid>d69b505f-41ee-4fbf-80aa-739f46b5ef67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>twitter</value>
+      <webElementGuid>8ef44d78-9d75-4fee-ae55-7bcd404dbcee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-twitter </value>
+      <webElementGuid>9d9b1890-ab71-4ff7-baa1-e9558044ece4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>744c0d5b-2f93-4c27-953b-6f21e088004d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>49fb9f5e-23e2-4ebe-95ea-9c5b0e48d375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>9c7228bf-9452-423e-9aba-657c6c6a7321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;header__Container-sc-14n1q57-0 fJWfAy&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;sidebar__Container-sc-q6qem6-0 dFvpTH&quot;]/nav[1]/section[1]/div[@class=&quot;menu menuindeks menufront&quot;]/div[@class=&quot;sosmed&quot;]/a[@class=&quot;sm tw&quot;]/svg[@class=&quot;svg-inline--fa fa-twitter&quot;]</value>
+      <webElementGuid>9f43e11a-23cd-4b6e-a809-9dc8ca85c9f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaksi'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8f8a044b-687d-4fe9-b12e-b17e6b8f2469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>87bbc9bf-da46-4a93-a9a4-94abdf2b9d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEDUKTIF'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>a431adb4-a0a8-4f9b-8a92-dffb66d7cd20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

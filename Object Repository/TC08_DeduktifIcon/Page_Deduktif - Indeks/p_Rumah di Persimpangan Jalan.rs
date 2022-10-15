@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Rumah di Persimpangan Jalan</name>
+   <tag></tag>
+   <elementGuidId>7ed1eb3e-96c8-435d-a86f-02bc6ace4365</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/article/div/a/div/div[2]/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.article-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>322686d1-9cce-4d94-9a9e-da42b593d36f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>article-title</value>
+      <webElementGuid>2c2e66e4-fc72-4bc9-b668-b7a2aab1377d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rumah di Persimpangan Jalan</value>
+      <webElementGuid>405b537d-ca23-4fe0-8684-3ae9a2e47686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;listdata__Container-sc-i584bf-0 eepZwG deduktif&quot;]/article[1]/div[1]/a[@class=&quot;indeks-link&quot;]/div[@class=&quot;article&quot;]/div[@class=&quot;credit&quot;]/p[@class=&quot;article-title&quot;]</value>
+      <webElementGuid>ca4389e1-64af-4836-8daf-23fa4cc78b2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/article/div/a/div/div[2]/p[2]</value>
+      <webElementGuid>a6846cb5-dad0-4c16-81df-238c5f12af95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEDUKTIF'])[1]/following::p[2]</value>
+      <webElementGuid>2d253626-4654-4f0f-b47a-a8b48c2a10cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaksi'])[1]/following::p[2]</value>
+      <webElementGuid>5ccb49bd-589a-4d6b-a972-1789a1479a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rumah di Persimpangan Jalan']/parent::*</value>
+      <webElementGuid>5d61b280-d6bb-429f-b361-6c0b440c3c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>bec526db-e946-4518-b463-1c59319e3ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Rumah di Persimpangan Jalan' or . = 'Rumah di Persimpangan Jalan')]</value>
+      <webElementGuid>8052cfc0-92a0-4a5a-8553-a6cd66e631ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

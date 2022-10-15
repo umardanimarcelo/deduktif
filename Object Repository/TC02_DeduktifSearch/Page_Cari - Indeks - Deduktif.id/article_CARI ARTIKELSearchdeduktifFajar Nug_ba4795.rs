@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>article_CARI ARTIKELSearchdeduktifFajar Nug_ba4795</name>
+   <tag></tag>
+   <elementGuidId>8676dc22-66ba-48c7-834a-eebc7ea6be37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/article</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>article</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>article</value>
+      <webElementGuid>523d36ce-b242-499a-b7e6-01168b699521</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CARI ARTIKELSearchdeduktifFajar NugrahaKalkulator PaylaterdeduktifFajar NugrahaPaylater: Uluran Tangan atau Pasir Hisap?deduktifFajar NugrahaMenakar Paylater dalam Pemenuhan Kebutuhan Gen-Z dan MilenialdeduktifAhsan RidhoiDari Mana Pendanaan Startup Paylater?deduktifAhsan RidhoiLanskap Baru Bisnis Kredit Konsumer: Kartu Kredit vs Paylater?</value>
+      <webElementGuid>c90a2a44-da39-4d4b-8cb3-90b73756b1d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;listdata__Container-sc-i584bf-0 eepZwG deduktif&quot;]/article[1]</value>
+      <webElementGuid>578b5485-a309-4898-b83b-08b829c2ad6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/article</value>
+      <webElementGuid>cd74dacd-5ea7-487c-b507-0bc6fb275d30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaksi'])[2]/following::article[1]</value>
+      <webElementGuid>07eb4893-bb57-48b6-9d67-c8c104047fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[2]/following::article[1]</value>
+      <webElementGuid>07909587-4aa1-40a5-a9b9-b03c3a9da2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article</value>
+      <webElementGuid>7475f322-b262-462d-8fc4-f7a5ad9b3b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//article[(text() = 'CARI ARTIKELSearchdeduktifFajar NugrahaKalkulator PaylaterdeduktifFajar NugrahaPaylater: Uluran Tangan atau Pasir Hisap?deduktifFajar NugrahaMenakar Paylater dalam Pemenuhan Kebutuhan Gen-Z dan MilenialdeduktifAhsan RidhoiDari Mana Pendanaan Startup Paylater?deduktifAhsan RidhoiLanskap Baru Bisnis Kredit Konsumer: Kartu Kredit vs Paylater?' or . = 'CARI ARTIKELSearchdeduktifFajar NugrahaKalkulator PaylaterdeduktifFajar NugrahaPaylater: Uluran Tangan atau Pasir Hisap?deduktifFajar NugrahaMenakar Paylater dalam Pemenuhan Kebutuhan Gen-Z dan MilenialdeduktifAhsan RidhoiDari Mana Pendanaan Startup Paylater?deduktifAhsan RidhoiLanskap Baru Bisnis Kredit Konsumer: Kartu Kredit vs Paylater?')]</value>
+      <webElementGuid>53d7f420-28fe-4a0c-81ba-6f548439e2d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

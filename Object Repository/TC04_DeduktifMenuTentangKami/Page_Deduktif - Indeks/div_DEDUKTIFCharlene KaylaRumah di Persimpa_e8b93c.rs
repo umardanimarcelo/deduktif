@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DEDUKTIFCharlene KaylaRumah di Persimpa_e8b93c</name>
+   <tag></tag>
+   <elementGuidId>00d750dd-dce0-442d-860b-e91d842a8c10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.listdata__Container-sc-i584bf-0.eepZwG.deduktif</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ebe5a93-aa7b-4199-a18b-da6035d67d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>listdata__Container-sc-i584bf-0 eepZwG deduktif</value>
+      <webElementGuid>95bf80a5-65fe-4065-ab00-2fadffd21d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DEDUKTIFCharlene KaylaRumah di Persimpangan JalanFajar NugrahaMartin Aleida dan Riwayat Harian RakjatFajar NugrahaHidup di Antara PertaruhanFajar NugrahaMenambang Cuan dari Judi OnlineAhsan RidhoiNeraka di Kapal Hampir Karam Bernama Jawa Pos KoranAhsan RidhoiBalkanisasi Grup Jawa PosAhsan RidhoiBerebut Kuasa di Jawa PosAhsan RidhoiSuul Khatimah di Jawa PosAnn PutriJawa Pos Bukan Lagi Dahlan IskanFajar NugrahaKalkulator Paylater12</value>
+      <webElementGuid>6271586f-5429-4de5-9415-afc53b1f082f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;listdata__Container-sc-i584bf-0 eepZwG deduktif&quot;]</value>
+      <webElementGuid>399e9c9b-3a9c-4667-8512-2c128895ed77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]</value>
+      <webElementGuid>92cfacb7-165f-4e37-851b-7303b8ebbe92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaksi'])[1]/following::div[8]</value>
+      <webElementGuid>233b23eb-e84d-44c6-842b-f3e13b765886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::div[8]</value>
+      <webElementGuid>45455b69-20d5-4bf0-981e-0775401001a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>2aab0ecc-1f71-4e71-87bb-e93425704c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DEDUKTIFCharlene KaylaRumah di Persimpangan JalanFajar NugrahaMartin Aleida dan Riwayat Harian RakjatFajar NugrahaHidup di Antara PertaruhanFajar NugrahaMenambang Cuan dari Judi OnlineAhsan RidhoiNeraka di Kapal Hampir Karam Bernama Jawa Pos KoranAhsan RidhoiBalkanisasi Grup Jawa PosAhsan RidhoiBerebut Kuasa di Jawa PosAhsan RidhoiSuul Khatimah di Jawa PosAnn PutriJawa Pos Bukan Lagi Dahlan IskanFajar NugrahaKalkulator Paylater12' or . = 'DEDUKTIFCharlene KaylaRumah di Persimpangan JalanFajar NugrahaMartin Aleida dan Riwayat Harian RakjatFajar NugrahaHidup di Antara PertaruhanFajar NugrahaMenambang Cuan dari Judi OnlineAhsan RidhoiNeraka di Kapal Hampir Karam Bernama Jawa Pos KoranAhsan RidhoiBalkanisasi Grup Jawa PosAhsan RidhoiBerebut Kuasa di Jawa PosAhsan RidhoiSuul Khatimah di Jawa PosAnn PutriJawa Pos Bukan Lagi Dahlan IskanFajar NugrahaKalkulator Paylater12')]</value>
+      <webElementGuid>2675c2e7-4aa6-4ded-a8e7-50ac4bd034cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
