@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_RSS</name>
+   <tag></tag>
+   <elementGuidId>5d0cb412-4007-4b36-844a-b7d74807c785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/section/div/div/a[4]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1107fb32-aceb-4651-a182-5a2433b752c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RSS</value>
+      <webElementGuid>edb1b0d4-de20-4cc8-895a-bc4c2c0b7eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;footer__Container-sc-h97ats-0 jPXmDj&quot;]/section[1]/div[@class=&quot;menu&quot;]/div[@class=&quot;box&quot;]/a[@class=&quot;link&quot;]/p[1]</value>
+      <webElementGuid>a3e22390-9553-426d-b2ef-9bc93e858a67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/section/div/div/a[4]/p</value>
+      <webElementGuid>c4318c3f-a035-4b8b-8bf6-20d6b3319921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::p[5]</value>
+      <webElementGuid>c7b146c5-57fc-448a-beb2-ad404591c732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formula rahasia'])[1]/following::p[5]</value>
+      <webElementGuid>f303499f-e145-48a9-9954-4c7799018847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/p</value>
+      <webElementGuid>f9ffa40f-d733-47cb-858c-ce67353e62e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'RSS' or . = 'RSS')]</value>
+      <webElementGuid>67c2f1a9-5f84-4de1-88a9-03460227b458</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
